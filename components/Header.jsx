@@ -8,7 +8,7 @@ export default function Header() {
           <img src='/images/design.png' alt='' />
         </div>
         <div className='flex justify-start'>
-          <img src='/images/Logo.png' alt='' />
+          <img src='/images/Logo.png' alt='test' />
         </div>
         <div>
           <nav>
